@@ -6,6 +6,8 @@
 
 Please ★ this repo if you found it useful ★ ★ ★
 
+![](assets/event-ears.png)
+
 ## Features
 
 - convert event listener to promise
